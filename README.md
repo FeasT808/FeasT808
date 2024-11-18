@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning pyhton and basic coding
 - 💞️ I’m looking to collaborate on making my first project
 - 📫 How to reach me dipsdsps@gmail.com
-- 😄 Pronouns: he/hes
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: iam newbie to this world
 
 <!---
